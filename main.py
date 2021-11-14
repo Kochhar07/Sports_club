@@ -113,7 +113,7 @@ def boiler_code():
                 pass
             elif option == 5:
                 print("\n\n###### Thank you for using the app... ######")
-                print("###### Designed by Sachin Mehndiratta ######")
+                print("######      Designed by Mohit Kochhar     ######")
                 print("____________________________________________\n\n")
                 print("Quiting in: ")
                 for i in reversed(range(5)):
